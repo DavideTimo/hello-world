@@ -16,7 +16,7 @@ def soluzione10(stringa1):
     if invert_stringa == stringa1:
         return True  #modifica per secondo commmit
     else:
-        return False
+        return False #modifica per test
 
 
 
