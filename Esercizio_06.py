@@ -12,7 +12,7 @@ def soluzione6(carattere):
     if carattere in vocali:
         return True
     else:
-        return False
+        return False #altra modifica
 
     
 
