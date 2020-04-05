@@ -21,11 +21,8 @@ def soluzione10(stringa1):
 
 
 
-
-
 #Test modulo
 if __name__ == '__main__':
     print("aea è palindroma? : " + str(soluzione10("aea")))
-    
     
     
