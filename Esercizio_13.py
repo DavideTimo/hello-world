@@ -25,7 +25,7 @@ def soluzione13(listaA):
 
 #Test modulo
 if __name__ == '__main__':
-    A =["ciao", "pippo", "paperino", 4334, "pluto"]
+    A = ["ciao", "pippo", "paperino", 4334, "pluto"]
     print(soluzione13(A))
 
 
